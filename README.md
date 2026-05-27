@@ -43,44 +43,6 @@ Revise especialmente:
 5. Elija el archivo `.csl`.
 6. Busque el estilo como `APA Style 7th edition - español Manual Moderno 4ª edición`.
 
-## Cómo subir manualmente a GitHub
-
-Nombre sugerido del repositorio:
-
-```text
-apa-espanol-mm4-csl
-```
-
-Archivos recomendados para subir:
-
-```text
-README.md
-apa-español-mm4-actualizado.csl
-revision-cumplimiento-apa-mm4.md
-```
-
-No suba estos archivos o carpetas:
-
-```text
-manual_pages/
-manual de publicaciones apa 4ta edicion.pdf
-GuíaAPA4 españoñ.pdf
-```
-
-Motivo: esos materiales son referencias de revisión y pueden tener derechos de autor. El repositorio debe incluir solo el estilo CSL y la documentación propia.
-
-Pasos:
-
-1. Cree un repositorio nuevo en GitHub.
-2. Use `Add file > Upload files`.
-3. Arrastre los tres archivos recomendados.
-4. Escriba un mensaje de commit, por ejemplo:
-
-```text
-Agregar estilo CSL APA español Manual Moderno 4ª edición
-```
-
-5. Pulse `Commit changes`.
 
 ## Licencia
 
